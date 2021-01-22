@@ -1,0 +1,5 @@
+According to the Copenhagen interpretation, material objects, on a microscopic level, generally 
+do not have definite properties prior to being measured, and quantum mechanics can only predict 
+the probability distribution of a given measurement's possible results. The act of measurement 
+affects the system, causing the set of probabilities to reduce to only one of the possible values 
+immediately after the measurement. This feature is known as wave function collapse.

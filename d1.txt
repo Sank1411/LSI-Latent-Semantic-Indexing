@@ -1,0 +1,4 @@
+Quantum Darwinism is a theory meant to explain the emergence of the classical world
+from the quantum world as due to a process of Darwinian natural selection induced 
+by the environment interacting with the quantum system; where the many possible 
+quantum states are selected against in favor of a stable pointer state.

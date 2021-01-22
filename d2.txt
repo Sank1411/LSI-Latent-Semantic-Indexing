@@ -1,0 +1,10 @@
+The quantum eraser experiment is a variation of Thomas Young's classic double-slit 
+experiment. It establishes that when action is taken to determine which of 2 
+slits a photon has passed through, the photon cannot interfere with itself. 
+When a stream of photons is marked in this way, then the interference fringes 
+characteristic of the Young experiment will not be seen. The experiment also 
+creates situations in which a photon that has been "marked" to reveal through 
+which slit it has passed can later be "unmarked." A photon that has been "marked" 
+cannot interfere with itself and will not produce fringe patterns, 
+but a photon that has been "marked" and then "unmarked" will interfere with itself 
+and produce the fringes characteristic of Young's experiment.
